@@ -42,9 +42,9 @@ You have two Options:
 Just send any instagram username.
 
 For Example:
-<code>samantharuthprabhuoffl</code>
-<code>subin_p_s_</code>
-<code>_chill_manh_7</code>
+<code>mahi7781</code>
+<code>sharvinbasil</code>
+<code>blindstreet_666</code>
 
 
 2. From URL:
@@ -52,7 +52,7 @@ For Example:
 You can also sent a post link to download the post or video.
 
 For Example:
-<code>https://www.instagram.com/p/CL4QbUiLRNW/?utm_medium=copy_link</code>
+<code>https://www.instagram.com/tv/CD6ZQn1lGBi/?utm_medium=copy_link</code>
 
 
 <b>Available Commands and Usage</b>
@@ -99,7 +99,6 @@ Example: <code>/followers samantharuthprabhuoffl</code>
 
 This is a bot of [{}](www.instagram.com/{}) to manage his Instagram account. 
 I can only work for my master [{}](tg://user?id={}).
-But you can Deploy the same bot for your use from the below source code.
 
 Use /help to know What I can Do?</b>
 """
